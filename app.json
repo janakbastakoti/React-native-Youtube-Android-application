@@ -1,0 +1,17 @@
+{
+  "name": "Youtube",
+  "displayName": "Youtube",
+  "expo": {
+    "name": "Youtube",
+    "slug": "Youtube",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
